@@ -19,5 +19,9 @@
     "react-component",
     "ios",
     "tooltip"
-  ]
+  ],
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-create-class": "^1.0.0"
+  }
 }
